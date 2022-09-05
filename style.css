@@ -1,0 +1,12 @@
+* {
+  font-family: "Roboto Mono", monospace;
+}
+body {
+  background-color: #a17fe0;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+.winner {
+  background-color: rgba(31, 30, 30, 0.658);
+  color: white;
+}
